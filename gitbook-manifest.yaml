@@ -1,0 +1,12 @@
+name: AI_Platform
+title: AI_Platform
+organization: UNIVA
+visibility: private
+description: ""
+script: src/index.tsx
+scopes: []
+blocks:
+  - id: AI_Platform
+    title: AI_Platform
+    description: My GitBook Integration
+secrets: {}
