@@ -10,6 +10,10 @@
 
 <figure><audio controls><source src=".gitbook/assets/smaple_audio_KO_W002.mp3" type="audio/mp3"></audio><figcaption></figcaption></figure>
 
+
+https://github.com/univa-JELLY/testGitbook/assets/166671085/16281665-f789-462c-8914-64aca470f803
+
+
 <audio controls><source src=".gitbook/assets/smaple_audio_KO_W002.mp3" type="audio/mp3"></audio>
 
 <b>테스트입니당</b>
