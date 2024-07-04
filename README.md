@@ -9,7 +9,7 @@
 <figure><img src=".gitbook/assets/c40d5a9de75cc5996b0a89430fe27463.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><audio controls>
-  <source src=".gitbook/assets/smaple_audio_KO_W002.mp3">
+  <source src=".gitbook/assets/smaple_audio_KO_W002.mp3" type="audio/mp3">
 </audio></figure>
 
 ### test22
