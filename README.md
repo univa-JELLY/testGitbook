@@ -22,6 +22,10 @@ https://github.com/univa-JELLY/testGitbook/assets/166671085/16281665-f789-462c-8
 
 <b>테스트입니당</b>
 
+## 오디오 파일 듣기
+
+[오디오 파일 재생하기](https://raw.githubusercontent.com/univa-JELLY/testGitbook/master/.gitbook/assets/smaple_audio_KO_W002.mp3)
+
 <img src=".gitbook/assets/c40d5a9de75cc5996b0a89430fe27463.jpg" alt="">
 
 ### test22
