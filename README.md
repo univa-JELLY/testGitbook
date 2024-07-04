@@ -16,6 +16,10 @@ https://github.com/univa-JELLY/testGitbook/assets/166671085/16281665-f789-462c-8
 
 <audio controls><source src=".gitbook/assets/smaple_audio_KO_W002.mp3" type="audio/mp3"></audio>
 
+<video controls="" autoplay="" name="media">
+    <source src="https://user.github.io/project/audio/sound.mp3" type="audio/mp3">
+</video>
+
 <b>테스트입니당</b>
 
 <img src=".gitbook/assets/c40d5a9de75cc5996b0a89430fe27463.jpg" alt="">
